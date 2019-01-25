@@ -1,4 +1,5 @@
 # Implemention-of-knowledge-embedded-approach-for-monitoring-machinng-errors
+
 The training and testing samples are put in the file "dataset/*.csv", the filename represents the set number.
 (1) Function illustration
     construct_dict.m : to construct the dictionary matrix of the GKM method.
